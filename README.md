@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+![Banner](https://raw.githubusercontent.com/Ubaid2116/Ubaid2116/main/github-ppic.gif)
 
 # 💫 About Me:
 I'm a Software Engineering Undergraduate at Cardiff Metropolitan University
