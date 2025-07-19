@@ -1,4 +1,4 @@
-![Banner]([https://raw.githubusercontent.com/Ubaid2116/Ubaid2116/main/github-ppic.gif](https://user-images.githubusercontent.com/67194519/173735367-b75edb3b-61ec-4323-a10f-5d98e1d7b97a.gif))
+![Banner](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)
 
 # 💫 About Me:
 I'm a Software Engineering Undergraduate at Cardiff Metropolitan University
