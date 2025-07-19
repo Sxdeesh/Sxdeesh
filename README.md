@@ -6,21 +6,41 @@
 
 ###
 
-<h4 align="left"></h4>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Sxdeesh.Sxdeesh&"  />
+</div>
 
 ###
 
-![Banner](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)
+<h2 align="left"></h2>
 
 ###
 
-<img align="left" height="180" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGRjeGZrczIwbHpka3Jidmh6OG1nNm1xYjQwNHJqcHI0eHVpdjNmNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UCQ5LookOT2ufbsGiT/giphy.gif"  />
+<div align="center">
+  <img height="445" src="https://user-images.githubusercontent.com/67194519/173735367-b75edb3b-61ec-4323-a10f-5d98e1d7b97a.gif"  />
+</div>
 
 ###
 
-<h2 align="left">Tech Stack</h2>
+<h2 align="center">About me 🎯</h2>
 
 ###
+
+<img align="left" height="204" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm1kM3l3cG9oc25tZGZtbXhndHN5ZmV2aWhqamF5YXhqbXdta2NyeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Sh1iCtJZEdx4PFYy4q/giphy.gif"  />
+
+###
+
+<p align="left">- 🚀 Junior developer bringing fresh perspectives and an eagerness to solve problems<br>- 🎓 Recent graduate/current student with solid foundation in [key technologies/concepts]<br>- 💻 Experience building [types of projects] during coursework and personal development<br>- 🔍 Natural curiosity for understanding how things work (and why they sometimes don't)<br>- 🧩 Strong problem-solving mindset with attention to detail and willingness to ask questions<br>- 📚 Passionate about writing maintainable code and learning industry best practices<br>- ⚡ Quick to adapt to new technologies and development workflows<br>- ☕ Fun fact: I debug with optimism and caffeine in equal measure</p>
+
+###
+
+<br clear="both">
+
+<h2 align="left">Tech Stack 🔧</h2>
+
+###
+
+<br clear="both">
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=androidstudio" height="60" alt="androidstudio logo"  />
@@ -48,44 +68,65 @@
 
 <br clear="both">
 
-<p align="left"></p>
-
-###
-
-<br clear="both">
-
-<h2 align="left">Currently Learning</h2>
+<h2 align="left">Currently Learning 🧩</h2>
 
 ###
 
 <br clear="both">
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angularjs logo"  />
+  <img src="https://skillicons.dev/icons?i=angular" height="60" alt="angularjs logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo"  />
+  <img src="https://skillicons.dev/icons?i=flutter" height="60" alt="flutter logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo"  />
+  <img src="https://skillicons.dev/icons?i=wordpress" height="60" alt="wordpress logo"  />
 </div>
 
 ###
 
-<h2 align="left">Most Used Languages</h2>
+<h2 align="left">Connect with me 🌐</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.facebook.com/share/15o6BHT1gc/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=flat" height="28" alt="facebook logo"  />
+  </a>
+  <a href="sadeeshweerasekara@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="28" alt="gmail logo"  />
+  </a>
+  <a href="https://www.instagram.com/_.sxdeesh._/profilecard/?igsh=MTVrYWtxZ2xvZTI3ZA==" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="28" alt="instagram logo"  />
+  </a>
+  <a href="www.linkedin.com/in/sadeesh-weerasekara-691a5633a" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="28" alt="linkedin logo"  />
+  </a>
+</div>
 
 ###
 
 <br clear="both">
 
+<h2 align="left">GitHub Stats 📊</h2>
+
+###
+
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sxdeesh&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=true&order=2" height="160" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sxdeesh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=true&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sxdeesh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
 </div>
 
 ###
