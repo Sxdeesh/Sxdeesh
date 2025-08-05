@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">- 🚀 Junior developer bringing fresh perspectives and an eagerness to solve problems<br>- 🎓 Recent undergraduate with solid foundation in mobile and web application development<br>- 💻 Experience building mobile and web appliactions during coursework and personal development<br>- 🔍 Natural curiosity for understanding how things work (and why they sometimes don't)<br>- 🧩 Strong problem-solving mindset with attention to detail and willingness to ask questions<br>- 📚 Passionate about writing maintainable code and learning industry best practices<br>- ⚡ Quick to adapt to new technologies and development workflows<br>- ☕ Fun fact: I debug with optimism and caffeine in equal measure</p>
+<p align="left">- 🚀 Junior developer bringing fresh perspectives and an eagerness to solve problems<br>- 🎓 Recent graduate/current student with solid foundation in [key technologies/concepts]<br>- 💻 Experience building [types of projects] during coursework and personal development<br>- 🔍 Natural curiosity for understanding how things work (and why they sometimes don't)<br>- 🧩 Strong problem-solving mindset with attention to detail and willingness to ask questions<br>- 📚 Passionate about writing maintainable code and learning industry best practices<br>- ⚡ Quick to adapt to new technologies and development workflows<br>- ☕ Fun fact: I debug with optimism and caffeine in equal measure</p>
 
 ###
 
@@ -43,6 +43,18 @@
 <br clear="both">
 
 <div align="left">
+  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=androidstudio" height="60" alt="androidstudio logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
@@ -54,12 +66,6 @@
   <img src="https://skillicons.dev/icons?i=cs" height="60" alt="csharp logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="60" alt="figma logo"  />
 </div>
@@ -75,11 +81,7 @@
 <br clear="both">
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=angular" height="60" alt="angularjs logo"  />
   <img width="12" />
@@ -120,13 +122,8 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sxdeesh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sxdeesh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sxdeesh&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=true&order=1" height="160" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sxdeesh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=true&order=2" height="160" alt="languages graph"  />
 </div>
 
 ###
