@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">- 🚀 Junior developer bringing fresh perspectives and an eagerness to solve problems<br>- 🎓 Recent graduate/current student with solid foundation in Mobile/Web App development<br>- 💻 Experience building [types of projects] during coursework and personal development<br>- 🔍 Natural curiosity for understanding how things work (and why they sometimes don't)<br>- 🧩 Strong problem-solving mindset with attention to detail and willingness to ask questions<br>- 📚 Passionate about writing maintainable code and learning industry best practices<br>- ⚡ Quick to adapt to new technologies and development workflows<br>- ☕ Fun fact: I debug with optimism and caffeine in equal measure</p>
+<p align="left">- 🚀 Junior developer bringing fresh perspectives and an eagerness to solve problems<br>- 🎓 Recent graduate/current student with solid foundation in Mobile/Web App development<br>- 💻 Experience building Mobile and Web projects during coursework and personal development<br>- 🔍 Natural curiosity for understanding how things work (and why they sometimes don't)<br>- 🧩 Strong problem-solving mindset with attention to detail and willingness to ask questions<br>- 📚 Passionate about writing maintainable code and learning industry best practices<br>- ⚡ Quick to adapt to new technologies and development workflows<br>- ☕ Fun fact: I debug with optimism and caffeine in equal measure</p>
 
 ###
 
